@@ -1,0 +1,16 @@
+github.com/aclements/go-z3 v0.0.0-20220809013456-4675d5f90ca5 h1:A27FEXOK2zSHuCwXwmPIKfrHcT+caybRGb1kaW4KOBI=
+github.com/aclements/go-z3 v0.0.0-20220809013456-4675d5f90ca5/go.mod h1:Dcqk4DTCIWIVv0jiFnYg5nnTIOWZ3JgU/mYjb5puA1s=
+github.com/bmizerany/assert v0.0.0-20160611221934-b7ed37b82869/go.mod h1:Ekp36dRnpXw/yCqJaO+ZrUyxD+3VXMFFr56k5XYrpB4=
+github.com/golang-collections/collections v0.0.0-20130729185459-604e922904d3 h1:zN2lZNZRflqFyxVaTIU61KNKQ9C0055u9CAfpmqUvo4=
+github.com/golang-collections/collections v0.0.0-20130729185459-604e922904d3/go.mod h1:nPpo7qLxd6XL3hWJG/O60sR8ZKfMCiIoNap5GvD12KU=
+github.com/juliangruber/go-intersect v1.1.0 h1:sc+y5dCjMMx0pAdYk/N6KBm00tD/f3tq+Iox7dYDUrY=
+github.com/juliangruber/go-intersect v1.1.0/go.mod h1:WMau+1kAmnlQnKiikekNJbtGtfmILU/mMU6H7AgKbWQ=
+github.com/kr/pretty v0.2.0/go.mod h1:ipq/a2n7PKx3OHsz4KJII5eveXtPO4qwEXGdVfWzfnI=
+github.com/kr/pty v1.1.1/go.mod h1:pFQYn66WHrOpPYNljwOMqo10TkYh1fy3cYio2l3bCsQ=
+github.com/kr/text v0.1.0/go.mod h1:4Jbv+DJW3UT/LiOwJeYQe1efqtUx/iVham/4vfdArNI=
+github.com/mitchellh/go-z3 v0.0.0-20191228203228-4cbedeba863f h1:I2Rx8N5cDzVL4amj76w9F+fRS5zvZdmMyphvPMA+HJQ=
+github.com/mitchellh/go-z3 v0.0.0-20191228203228-4cbedeba863f/go.mod h1:SCzzTuqNJ1cVcftwEustt+uZcgDQhp0lJnWQPU3a3Lw=
+github.com/shopspring/decimal v1.3.1 h1:2Usl1nmF/WZucqkFZhnfFYxxxu8LG21F6nPQBE5gKV8=
+github.com/shopspring/decimal v1.3.1/go.mod h1:DKyhrW/HYNuLGql+MJL6WCR6knT2jwCFRcu2hWCYk4o=
+gopkg.in/karalabe/cookiejar.v2 v2.0.0-20150724131613-8dcd6a7f4951 h1:DMTcQRFbEH62YPRWwOI647s2e5mHda3oBPMHfrLs2bw=
+gopkg.in/karalabe/cookiejar.v2 v2.0.0-20150724131613-8dcd6a7f4951/go.mod h1:owOxCRGGeAx1uugABik6K9oeNu1cgxP/R9ItzLDxNWA=
